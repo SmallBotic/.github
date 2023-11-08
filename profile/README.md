@@ -1,0 +1,3 @@
+# SmallBotic
+
+Microcontrollers explored.
